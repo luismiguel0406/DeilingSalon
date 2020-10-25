@@ -1,0 +1,15 @@
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\bin\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\bin\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Documents\Visual Studio 2015\Projects\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.csprojResolveAssemblyReference.cache
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\bin\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\bin\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.csprojResolveAssemblyReference.cache
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\bin\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\bin\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Capa_Gestion_de_seguridad\obj\Debug\Capa_Gestion_de_seguridad.csprojResolveAssemblyReference.cache

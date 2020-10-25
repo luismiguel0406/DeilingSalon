@@ -1,0 +1,120 @@
+c:\users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe.config
+c:\users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.csprojResolveAssemblyReference.cache
+c:\users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.LoginGP2.resources
+c:\users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Menu_Principal_GP2.resources
+c:\users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Properties.Resources.resources
+c:\users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.csproj.GenerateResource.Cache
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.pdb
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Clientes_GP2.resources
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.exe
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.pdb
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.InventarioGp2.resources
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Usuarios_Gp2.resources
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Facturacion_GP2.resources
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Proveedores_GP2.resources
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Bienvenida.resources
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.TrustInfo.xml
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe.manifest
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.application
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.exe.manifest
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.application
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe.config
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.exe
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.pdb
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe.manifest
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.application
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.pdb
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.csprojResolveAssemblyReference.cache
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Bienvenida.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Clientes_GP2.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Facturacion_GP2.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.LoginGP2.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.InventarioGp2.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Menu_Principal_GP2.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Properties.Resources.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Proveedores_GP2.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Usuarios_Gp2.resources
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.csproj.GenerateResource.Cache
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.TrustInfo.xml
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.exe.manifest
+C:\Users\luism\Downloads\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.application
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe.config
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.exe
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.pdb
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe.manifest
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.application
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.exe
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Sistema_de _inventarioGP2.pdb
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\zxing.dll
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.csprojResolveAssemblyReference.cache
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Bienvenida.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Clientes_GP2.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Facturacion_GP2.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.LoginGP2.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.InventarioGp2.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Menu_Principal_GP2.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Properties.Resources.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Proveedores_GP2.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Usuarios_Gp2.resources
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.csproj.GenerateResource.Cache
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.TrustInfo.xml
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.exe.manifest
+C:\Users\luism\Desktop\Sistema farmacia\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.application
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\ConexionBD.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\zxing.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\ConexionBD.pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.csprojResolveAssemblyReference.cache
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Bienvenida.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUajustes.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUclientes.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUfacturacion.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUgestion_empleados.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUinventario.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUproveedores.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUrecordatorios.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUReportes.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUsueldos_e_ingresos.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUDatosempleado.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.LoginGP2.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Menu_Principal_GP2.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Properties.Resources.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de _inventarioGP2.csproj.GenerateResource.Cache
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUServicios.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\EntityFramework.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\EntityFramework.xml
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.Cuusuarios.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUcuadrediario.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUcuadremensual.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUreporteviewer.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUcreditos.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUInforme.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Deiling_Salon(Glam Room).exe.config
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Deiling_Salon(Glam Room).exe.manifest
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Deiling_Salon(Glam Room).application
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Deiling_Salon(Glam Room).exe
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\bin\Debug\Deiling_Salon(Glam Room).pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Deiling_Salon(Glam Room).TrustInfo.xml
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Deiling_Salon(Glam Room).exe.manifest
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Deiling_Salon(Glam Room).application
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Deiling_Salon(Glam Room).exe
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Deiling_Salon(Glam Room).pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUgastos.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.correo.resources
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\Sistema_de _inventarioGP2\obj\Debug\Sistema_de__inventarioGP2.CUPanelDeAjuste.resources

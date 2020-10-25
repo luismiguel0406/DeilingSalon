@@ -1,0 +1,7 @@
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\ConexionBD\bin\Debug\ConexionBD.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\ConexionBD\bin\Debug\Capa_Gestion_de_seguridad.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\ConexionBD\bin\Debug\Capa_Gestion_de_seguridad.pdb
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\ConexionBD\obj\Debug\ConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\luism\Desktop\Sistema salon\Sistema_de _inventarioGP2\ConexionBD\obj\Debug\ConexionBD.pdb

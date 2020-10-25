@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{446E4C80-4B0D-434E-A9C4-612918215401}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sistema_de__inventarioGP2</RootNamespace>
+    <AssemblyName>Deiling_Salon%28Glam Room%29</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\luism\Desktop\Glam Room\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>19</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Sistema_de__inventarioGP2.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F2C23DB9B3E57617A6707306065DC08588F793AB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Sistema_de _inventarioGP2_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>WhatsApp Image 2019-08-28 at 9.56.20 PM%281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.3.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing">
+      <HintPath>..\..\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="correo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correo.Designer.cs">
+      <DependentUpon>correo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Creador_de_factura.cs" />
+    <Compile Include="CUajustes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUajustes.Designer.cs">
+      <DependentUpon>CUajustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUclientes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUclientes.Designer.cs">
+      <DependentUpon>CUclientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUcreditos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUcreditos.Designer.cs">
+      <DependentUpon>CUcreditos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUcuadrediario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUcuadrediario.Designer.cs">
+      <DependentUpon>CUcuadrediario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUcuadremensual.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUcuadremensual.Designer.cs">
+      <DependentUpon>CUcuadremensual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUfacturacion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUfacturacion.Designer.cs">
+      <DependentUpon>CUfacturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUgastos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUgastos.Designer.cs">
+      <DependentUpon>CUgastos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUgestion_empleados.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUgestion_empleados.Designer.cs">
+      <DependentUpon>CUgestion_empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUInforme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUInforme.Designer.cs">
+      <DependentUpon>CUInforme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUinventario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUinventario.Designer.cs">
+      <DependentUpon>CUinventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUPanelDeAjuste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUPanelDeAjuste.Designer.cs">
+      <DependentUpon>CUPanelDeAjuste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUproveedores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUproveedores.Designer.cs">
+      <DependentUpon>CUproveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUrecordatorios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUrecordatorios.Designer.cs">
+      <DependentUpon>CUrecordatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUReportes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUReportes.Designer.cs">
+      <DependentUpon>CUReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUreporteviewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUreporteviewer.Designer.cs">
+      <DependentUpon>CUreporteviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUServicios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUServicios.designer.cs">
+      <DependentUpon>CUServicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUsueldos_e_ingresos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUsueldos_e_ingresos.Designer.cs">
+      <DependentUpon>CUsueldos_e_ingresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUDatosempleado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CUDatosempleado.Designer.cs">
+      <DependentUpon>CUDatosempleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuusuarios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Cuusuarios.Designer.cs">
+      <DependentUpon>Cuusuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio_Sesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio_Sesion.Designer.cs">
+      <DependentUpon>Inicio_Sesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Principal_GP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Principal_GP2.Designer.cs">
+      <DependentUpon>Menu_Principal_GP2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correo.resx">
+      <DependentUpon>correo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUajustes.resx">
+      <DependentUpon>CUajustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUclientes.resx">
+      <DependentUpon>CUclientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUcreditos.resx">
+      <DependentUpon>CUcreditos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUcuadrediario.resx">
+      <DependentUpon>CUcuadrediario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUcuadremensual.resx">
+      <DependentUpon>CUcuadremensual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUfacturacion.resx">
+      <DependentUpon>CUfacturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUgastos.resx">
+      <DependentUpon>CUgastos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUgestion_empleados.resx">
+      <DependentUpon>CUgestion_empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUInforme.resx">
+      <DependentUpon>CUInforme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUinventario.resx">
+      <DependentUpon>CUinventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUPanelDeAjuste.resx">
+      <DependentUpon>CUPanelDeAjuste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUproveedores.resx">
+      <DependentUpon>CUproveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUrecordatorios.resx">
+      <DependentUpon>CUrecordatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUReportes.resx">
+      <DependentUpon>CUReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUreporteviewer.resx">
+      <DependentUpon>CUreporteviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUServicios.resx">
+      <DependentUpon>CUServicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUsueldos_e_ingresos.resx">
+      <DependentUpon>CUsueldos_e_ingresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CUDatosempleado.resx">
+      <DependentUpon>CUDatosempleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuusuarios.resx">
+      <DependentUpon>Cuusuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio_Sesion.resx">
+      <DependentUpon>Inicio_Sesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Principal_GP2.resx">
+      <DependentUpon>Menu_Principal_GP2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\simbolo-de-la-medicina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloquear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicine%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-tab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Gestion_de_seguridad\Capa_Gestion_de_seguridad.csproj">
+      <Project>{bbe06656-7654-436b-bf70-70b3db245fa6}</Project>
+      <Name>Capa_Gestion_de_seguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConexionBD\ConexionBD.csproj">
+      <Project>{29024268-24d4-4d93-bbcc-c96acf4e12d8}</Project>
+      <Name>ConexionBD</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2019-08-28 at 9.56.20 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1033180260-1024x1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2019-08-28 at 9.56.20 PM1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\venta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile-Menu-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hairdresser-chair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pagos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="WhatsApp Image 2019-08-28 at 9.56.20 PM%281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
